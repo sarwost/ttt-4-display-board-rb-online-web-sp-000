@@ -11,4 +11,8 @@ def display_board(board)
 end 
 
 
-row 1 = puts "   |   |   " 
+row_1 = puts "   |   |   " 
+row_2 = 
+row_3 = 
+row_4 = 
+row_5 = 
